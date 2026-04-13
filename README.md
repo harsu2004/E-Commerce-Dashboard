@@ -1,7 +1,8 @@
 1. Project Title:- 
  E-Commerce Sales Dashboard
 
-2. What the Dashboard Does & Why It Exists:- 
+2. What the Dashboard Does & Why It Exists:-
+
 This project showcases an interactive E-Commerce Sales Dashboard that provides insights into overall sales performance, product demand, and customer purchasing behavior.
 
 The dashboard is designed to:-
