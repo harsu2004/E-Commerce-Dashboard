@@ -1,5 +1,5 @@
 1. Project Title:- 
-E-Commerce Sales Dashboard
+ E-Commerce Sales Dashboard
 
 2. What the Dashboard Does & Why It Exists:- 
 This project showcases an interactive E-Commerce Sales Dashboard that provides insights into overall sales performance, product demand, and customer purchasing behavior.
@@ -25,4 +25,6 @@ The dashboard is designed to:-
 - Monthly Sales Trend for time-based insights
 - Clean and structured layout for easy understanding
 
-6. Screenshot:- 
+6. Screenshot:-
+   https://github.com/harsu2004/E-Commerce-Dashboard/blob/main/Dashboard%20SS.png
+   
